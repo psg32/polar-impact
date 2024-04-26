@@ -7,7 +7,7 @@ It further outlines expectations and responsibilities with regard to working on 
 
 | Name | Affiliation | Full-Time Equivalent on the Project OR Community Roles | Time period allocated to the project | Previous roles |
 |---|---|---|---|---|
-| Prem Gill <br>([@polarprem]([https://github.com/KirstieJane](https://twitter.com/PolarPrem))) | Founder, Scott Polar Research Institute, the University of Cambridge and the British Antarctic Survey | - | Oct 2019 - Present | - |
+| Prem Gill <br>([@polarprem]([https://twitter.com/PolarPrem]) | Founder, Scott Polar Research Institute, the University of Cambridge and the British Antarctic Survey | - | Oct 2019 - Present | - |
 | Ariel Waldman <br>([](https://github.com/malvikasharan)) | Co-lead investigator, The Alan Turing Institute | - | Jul 2021 - Present | Previously: Community manager, Jan 2020 - Jun 2021 (100%) |
 | Alie Lepp <br>([](https://www.aplepp.com/)) | The Turing Way Community Manager, The Alan Turing Institute | 100% | March 2022 - Present | - |
 | Alexandra Araujo Alvarez <br>([@alexandraaaj](https://github.com/alexandraaaj)) | The Turing Way Research Project Manager, The Alan Turing Institute | 100% | February 2023 - Present | - |
