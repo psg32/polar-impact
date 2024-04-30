@@ -1,6 +1,6 @@
 # Project Members
 
-This document provides details about the project members and contributors working (or previously worked) at _Polar Impact_ in in-kind contributions, a paid capacity, organisational agreement or grant proposal-based collaboration.
+This document is based on the Turing Way ways of working and provides details about the project members and contributors working (or previously worked) at _Polar Impact_ in in-kind contributions, a paid capacity, organisational agreement or grant proposal-based collaboration.
 It further outlines expectations and responsibilities with regard to working on the project.
 
 ## Current Project Members
